@@ -1,10 +1,10 @@
 Using Python and Astropy for Astronomical Data Analysis
-================================================================
-*Workshop at the 233rd Meeting of the AAS in Seattle*
+=======================================================
+*Workshop at Universitat Bern*
 
-**DATE:** Sunday, 6 January 2019  
-**TIME:** 9:00am - 5:00pm  
-**LOCATION:** ROOM 4C-4 at the Washington State Convention Center
+**DATE:** TBD (respond to the [Doodle here](https://doodle.com/poll/mnbw5hhg9nf3sn6v))
+**TIME:** 10:00-16:00
+**LOCATION:** TBD
 
 ## PRE-WORKSHOP SETUP
 Please be sure your laptop is properly configured before the workshop by following the
@@ -14,27 +14,17 @@ This could take as long as *one hour* depending on your current configuration an
 DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 
 ## Schedule
-| Time              | Topic    | Presenter |
-|-------------------|----------|-----------|
-|**9:00** | **Continental Breakfast** | |
-|9:00 - 9:30    | [Install and config](00-Install_and_Setup) help, if needed  | Juan Cabanela |
-|9:30 - 9:45 | [Intro to Astropy and Code of Conduct](01-IntroCoC) | Erik Tollerud |
-|9:45 - 10:15   | [Introduction to Python](02-PythonIntro) |  Clare Shanahan|
-|**10:15 - 10:30**  |  **BREAK** |  |
-|*10:30* | *Last call on breakfast* | |
-|10:30 - 11:00  | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | Brett Morris  |
-|11:00 - 11:30 | [Coordinates](04-Coordinates) | Brett Morris |
-|11:30 - 12:00 | [I/O: FITS and ASCII](05-FITS) | Lauren Chambers |
+| Time              | Topic    |
+|-------------------|----------|
+|9:00 - 10:00    | [Install and config](00-Install_and_Setup)
+|10:00 - 10:30   | [Introduction to Python](02-PythonIntro) |
+|10:30 - 11:00  | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
+|11:00 - 11:30 | [Coordinates](04-Coordinates) | 
+|11:30 - 12:00 | [I/O: FITS and ASCII](05-FITS) |
 |**12:00 - 1:00**| **LUNCH** | *On your own* |
-|1:00 - 1:30 | [Astropy Tables](06-Tables)| Clare Shanahan|
-|1:30 - 2:00 | [WCS and Images](08-WCS) | Clare Shanahan|
-|2:00 - 2:45 | [Photutils](09-Photutils) | Lauren Chambers |
-**2:45 - 3:15** | **BREAK** | *Snacks Provided* |
-|3:15 - 4:00 | [Specutils](09b-Specutils) | Erik Tollerud |
-|*3:30* | *Last call on snacks* | |
-|4:00 - 4:15 | [Astropy Communities](10-WrapUp) | Adrian Price-Whelan |
-|4:15 - 4:45 | [Contributing to Astropy](10-WrapUp) | Adrian Price-Whelan |
-|4:45 - 5:00 | [Survey](10-WrapUp) | Adrian Price-Whelan |
+|1:00 - 1:30 | [Astropy Tables](06-Tables) |
+|1:30 - 2:00 | [WCS and Images](08-WCS) |
+|2:00 - 4:00 | More tutorials TBD | 
 
 ## Description
 This workshop covers the use of Python tools for astronomical data analysis and visualization, with the focus primarily
@@ -67,17 +57,8 @@ If you would like to get a head start with the tools we will be concentrating on
 * [Affiliated Packages](http://www.astropy.org/affiliated/)
 
 * Other tools we can answer questions about but probably won't discuss explicitly:
-  * [imexam](http://imexam.readthedocs.io/)
-  * [Ginga](http://ginga.readthedocs.io/) and [stginga](http://stginga.readthedocs.io/)
-  * [Glue](http://glueviz.org/)
-  * [SpecViz](http://specviz.readthedocs.io/en/latest/)
-  * [Generalized WCS](http://gwcs.readthedocs.io/en/stable/)
   * [Git and Github](https://guides.github.com/activities/hello-world/)
   * [Git branching](https://learngitbranching.js.org/) 
-
-## Problems or Questions?
-
-We encourage you to submit any problems or questions you have either to this repository [issue tracker](https://github.com/astropy/astropy-workshop/issues).
 
 ## Past Workshops
 
