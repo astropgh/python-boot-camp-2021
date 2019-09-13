@@ -21,10 +21,11 @@ DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 |10:30 - 11:00  | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
 |11:00 - 11:30 | [Coordinates](04-Coordinates) | 
 |11:30 - 12:00 | [I/O: FITS and ASCII](05-FITS) |
-|**12:00 - 1:00**| **LUNCH** | *On your own* |
-|1:00 - 1:30 | [Astropy Tables](06-Tables) |
-|1:30 - 2:00 | [WCS and Images](08-WCS) |
-|2:00 - 4:00 | More tutorials TBD | 
+|**12:00 - 13:00**| **LUNCH** | *On your own* |
+|13:00 - 13:30 | [Astropy Tables](06-Tables) |
+|13:30 - 14:00 | [WCS and Images](08-WCS) |
+|14:00 - 14:15 | Coffee break | 
+|14:15 - 16:00 | More tutorials TBD | 
 
 ## Description
 This workshop covers the use of Python tools for astronomical data analysis and visualization, with the focus primarily
