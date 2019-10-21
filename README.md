@@ -18,16 +18,18 @@ DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 ## Schedule
 | Time              | Topic    |
 |-------------------|----------|
-|9:00 - 10:00    | [Install and config](00-Install_and_Setup)
-|10:00 - 10:30   | [Introduction to Python](02-PythonIntro) |
-|10:30 - 11:00  | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
-|11:00 - 11:30 | [Coordinates](04-Coordinates) | 
-|11:30 - 12:00 | [I/O: FITS and ASCII](05-FITS) |
+|9:00 - 10:00  | [Install and config](00-Install_and_Setup)
+|10:00 - 10:45 | [Introduction to Python](02-PythonIntro) |
+|10:45 - 11:00 | Coffee break | 
+|11:00 - 11:30 | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
+|11:30 - 12:00 | [Coordinates](04-Coordinates) | 
 |**12:00 - 13:00**| **LUNCH** | *On your own* |
-|13:00 - 13:30 | [Astropy Tables](06-Tables) |
-|13:30 - 14:00 | [WCS and Images](08-WCS) |
-|14:00 - 14:15 | Coffee break | 
-|14:15 - 16:00 | More tutorials TBD | 
+|13:00 - 13:30 | [I/O: FITS and ASCII](05-FITS) |
+|13:30 - 14:00 | [Astropy Tables](06-Tables) |
+|14:00 - 14:30 | Coffee break | 
+|14:30 - 15:00 | Contributing to astropy |
+|15:00 - 16:00 | Q&A | 
+
 
 ## Description
 This workshop covers the use of Python tools for astronomical data analysis and visualization, with the focus primarily
@@ -65,5 +67,5 @@ If you would like to get a head start with the tools we will be concentrating on
 
 ## Past Workshops
 
-Materials from past workshops can be found here:
-https://github.com/astropy/past-astropy-workshops
+Materials from other astropy workshops can be found here:
+https://github.com/astropy/astropy-workshop
