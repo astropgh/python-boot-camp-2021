@@ -27,8 +27,8 @@ DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 |13:00 - 13:30 | [I/O: FITS and ASCII](05-FITS) |
 |13:30 - 14:00 | [Astropy Tables](06-Tables) |
 |14:00 - 14:30 | Coffee break | 
-|14:30 - 15:00 | Contributing to astropy |
-|15:00 - 16:00 | Q&A | 
+|14:30 - 15:00 | [Contributing to Astropy](10-WrapUp) |
+|15:00 - 16:00 | Q&A, [Survey](https://forms.gle/4iYfapTaXFW1dp716) | 
 
 
 ## Description
