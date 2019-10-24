@@ -19,7 +19,7 @@ DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 | Time              | Topic    |
 |-------------------|----------|
 |9:00 - 10:00  | [Install and config](00-Install_and_Setup)
-|10:00 - 10:45 | [Introduction to Python](02-PythonIntro) |
+|10:00 - 10:45 | [Intake Survey](https://forms.gle/vLTe9f9K1zWzQBSw6), [Introduction to Python](02-PythonIntro) |
 |10:45 - 11:00 | Coffee break | 
 |11:00 - 11:30 | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
 |11:30 - 12:00 | [Coordinates](04-Coordinates) | 
@@ -29,7 +29,7 @@ DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 |14:00 - 14:30 | Coffee break | 
 |14:30 - 15:00 | [Contributing to Astropy](10-WrapUp) |
 |15:00 - 15:30 | [Extras](11-Extras) |
-|15:30 - 16:00 | Q&A, [Survey](https://forms.gle/4iYfapTaXFW1dp716) | 
+|15:30 - 16:00 | Q&A, [Outgoing Survey](https://forms.gle/4iYfapTaXFW1dp716) | 
 
 
 ## Description
