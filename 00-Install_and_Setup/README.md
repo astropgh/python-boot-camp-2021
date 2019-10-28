@@ -7,7 +7,7 @@ If you have any problems with any of these steps, please [open an issue](https:/
 
 Download the workshop folder using [git](https://help.github.com/articles/set-up-git/):
 
-    % git clone https://github.com/astropy/astropy-workshop.git
+    % git clone https://github.com/bmorris/astropy-workshop-bern-2019.git
 
 If you don't have git installed, you can download the ZIP file by pressing the green *Clone or download* button at https://github.com/astropy/astropy-workshop and selecting *Download ZIP*.  However, this option is less prefered because it makes it more difficult for you to update your copy of the repository if updates are made.
 
