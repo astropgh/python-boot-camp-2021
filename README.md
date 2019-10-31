@@ -1,12 +1,12 @@
 Using Python and Astropy for Astronomical Data Analysis
 =======================================================
-*Workshop at Universitat Bern*
+*Workshop at University of Geneva*
 
-**DATE:** Monday, October 28, 2019
+**DATE:** Thursday, November 14, 2019
 
 **TIME:** 10:00-16:00
 
-**LOCATION:** G6, Room -108
+**LOCATION:** TBD
 
 ## PRE-WORKSHOP SETUP
 Please be sure your laptop is properly configured before the workshop by following the
