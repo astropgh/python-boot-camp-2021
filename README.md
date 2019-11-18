@@ -2,9 +2,9 @@ Using Python and Astropy for Astronomical Data Analysis
 =======================================================
 *Workshop at Queens University Belfast*
 
-**DATE:** Wednesday-Thursday, November 20-21, 2019
+**DATE:** Wednesday & Thursday, November 20-21, 2019
 
-**TIME:** 9:00-12:00 (Wednesday), 9:00-12:00 (Thurs)
+**TIME:** 9:00-12:00 (Wed), 9:00-12:00 (Thurs)
 
 **LOCATION:** 69-71 University Square, Room 0G/007 (Wed), Peter Froggatt Centre Room 02/013 (Thurs)
 
@@ -16,20 +16,25 @@ This could take as long as *one hour* depending on your current configuration an
 DO NOT WAIT UNTIL THE DAY OF THE WORKSHOP.
 
 ## Schedule
+
+#### Wednesday, Nov 20
 | Time              | Topic    |
 |-------------------|----------|
-|9:00 - 10:00  | [Install and config](00-Install_and_Setup)
-|10:00 - 10:45 | [Introduction to Python](02-PythonIntro) |
-|10:45 - 11:00 | [Intake Survey](https://forms.gle/YNroxTdQ3Ap9Kv2LA), Coffee break | 
-|11:00 - 11:35 | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
-|11:35 - 12:00 | [Coordinates](04-Coordinates) | 
-|**12:00 - 13:00**| **LUNCH** | *On your own* |
-|13:00 - 13:30 | [I/O: FITS and ASCII](05-FITS) |
-|13:30 - 14:00 | [Astropy Tables](06-Tables) |
-|14:00 - 14:15 | Coffee break | 
-|14:15 - 14:30 | [Contributing to Astropy](10-WrapUp) |
-|14:30 - 15:30 | [Extras](11-Extras) |
-|15:30 - 16:00 | Q&A, [Outgoing Survey](https://forms.gle/P88Ko19YKzZtRVX57) | 
+|09:00 - 09:30  | [Install and config](00-Install_and_Setup)
+|09:30 - 09:35 | [Intake Survey](https://forms.gle/YNroxTdQ3Ap9Kv2LA) | 
+|09:35 - 10:45 | [Introduction to Python](02-PythonIntro) |
+|10:45 - 11:30 | [Astropy Units, Quantities, and Constants](03-UnitsQuantities) | 
+|11:30 - 12:00 | [Coordinates](04-Coordinates) | 
+
+#### Thursday, Nov 21
+
+| Time              | Topic    |
+|-------------------|----------|
+|09:00 - 09:30 | [I/O: FITS and ASCII](05-FITS) |
+|09:30 - 10:00 | [Astropy Tables](06-Tables) | 
+|10:00 - 10:15 | [Contributing to Astropy](10-WrapUp) |
+|10:15 - 11:30 | [Packaging, Object Oriented Programming](11-Extras) |
+|11:30 - 12:00 | Q&A, [Outgoing Survey](https://forms.gle/P88Ko19YKzZtRVX57) | 
 
 
 ## Description
