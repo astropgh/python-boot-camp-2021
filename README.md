@@ -1,12 +1,12 @@
 Using Python and Astropy for Astronomical Data Analysis
 =======================================================
-*Workshop at University of Geneva*
+*Workshop at Queens University Belfast*
 
-**DATE:** Thursday, November 14, 2019
+**DATE:** Wednesday-Thursday, November 20-21, 2019
 
-**TIME:** 10:00-16:00
+**TIME:** 9:00-12:00 (Wednesday), 9:00-12:00 (Thurs)
 
-**LOCATION:** TBD
+**LOCATION:** 69-71 University Square, Room 0G/007 (Wed), Peter Froggatt Centre Room 02/013 (Thurs)
 
 ## PRE-WORKSHOP SETUP
 Please be sure your laptop is properly configured before the workshop by following the
