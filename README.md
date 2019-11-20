@@ -6,7 +6,7 @@ Using Python and Astropy for Astronomical Data Analysis
 
 **TIME:** 9:00-12:00 (Wed), 9:00-12:00 (Thurs)
 
-**LOCATION:** 69-71 University Square, Room 0G/007 (Wed), Peter Froggatt Centre Room 02/013 (Thurs)
+**LOCATION:** 69-71 University Street, Room 0G/007 (Wed), Peter Froggatt Centre Room 02/013 (Thurs)
 
 ## PRE-WORKSHOP SETUP
 Please be sure your laptop is properly configured before the workshop by following the
