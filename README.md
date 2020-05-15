@@ -10,6 +10,7 @@ Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](h
 ```bash
 conda install numpy scipy astropy matplotlib jupyter ipython
 conda install -c astropy astroquery
+conda install -c conda-forge jupyterlab
 ```
 
 ### Test Your Installation
@@ -34,7 +35,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 
 | Time | Monday | Tuesday | Wednesday | Thursday |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9:00-10:15 | Python Basics | Numpy II | Astropy I | Git |
-| 10:45-12:00 | Data Structures | Linear Regression | Astropy II | GitHub |
-| 1:00-2:15 | Matplotlib I | Resampling | Visualization | Pandas |
-| 2:45-4:00 | Numpy I | Matplotlib II | Debugging | Altair |
+| 9:00-10:15 | Python Basics | Numpy I | Astropy I | Git |
+| 10:45-12:00 | Data Structures | Numpy II | Astropy II | GitHub |
+| 1:00-2:15 | Functions and Modules | Linear Regression | Matplotlib II | Pandas |
+| 2:45-4:00 | Matplotlib I | Resampling | Debugging | Altair |
