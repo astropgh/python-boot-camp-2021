@@ -5,7 +5,8 @@ We will start with a 1+3 day Python coding boot camp to help get everyone off th
 Then we will have a weekly seminar series to discuss more advanced topics, including communication skills (reading, plotting, storytelling, and writing) that become more important as the summer goes on. My hope is to create a sense of community in spite of the remote operations this year, so that you can help others, can seek help, and can interact with each other.
 
 ## Boot Camp
-### Python Installation
+### Installation and Setup
+#### Python
 Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](https://www.anaconda.com/products/individual) package manager **_for Python 3.7_** and then install the following packages in the terminal:
 ```bash
 conda install numpy scipy astropy matplotlib jupyter ipython
@@ -13,7 +14,10 @@ conda install -c astropy astroquery
 conda install -c conda-forge jupyterlab
 ```
 
-### Test Your Installation
+- [Conda Users Guide](https://conda.io/docs/user-guide/index.html)
+- [Astropy Install Instructions](http://docs.astropy.org/en/stable/install.html)
+
+#### Test Your Installation
 
 1. Open a new terminal.
 2. Type `ipython` into the terminal to open an interactive python session (the prompt should say `In [1]:`).
@@ -30,6 +34,9 @@ import astroquery
 
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
+#### Git and GitHub
+- [Set up Git](https://help.github.com/articles/set-up-git/)
+- [Sign up for GitHub](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
 ### Schedule
 
