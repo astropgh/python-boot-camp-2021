@@ -10,6 +10,7 @@ Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](h
 ```bash
 conda install numpy scipy astropy matplotlib jupyter ipython
 conda install -c astropy astroquery
+conda install -c conda-forge jupyterlab
 ```
 
 ### Test Your Installation
