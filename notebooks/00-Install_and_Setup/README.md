@@ -1,7 +1,7 @@
 # Getting Started with Python and Anaconda
 
 Please come to the workshop with a laptop already configured as described below.
-If you have any problems with any of these steps, please [open an issue](https://github.com/astropy/astropy-workshop/issues).
+If you have any problems with any of these steps, please [open an issue](https://github.com/astropgh/astropgh-boot-camp-2020/issues).
 
 ## 1. Clone This Repository
 
@@ -29,7 +29,7 @@ Miniconda comes with fewer default packages so it's faster to download and takes
 *Anaconda includes an environment manager called conda.  You can create, export, list, remove and update environments that have different versions of Python and/or packages installed in them.*
 
 [Create a conda environment for this workshop using a yml file](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
-The python version and all needed packages, including astropy, are listed in the [environment.yml](https://github.com/astropy/astropy-workshop/blob/master/00-Install_and_Setup/environment.yml) file
+The python version and all needed packages, including astropy, are listed in the [environment.yml](https://github.com/astropgh/astropgh-boot-camp-2020/tree/master/notebooks/00-Install_and_Setup/environment.yml) file
 
 On mac or linux, open your terminal and verify your shell environment:
 
@@ -39,7 +39,7 @@ If the output text does not contain `bash` then switch to the bash shell before 
 
 On windows, just open the `Anaconda Prompt` terminal app.
 
-Now navigate to this directory in the terminal.  For example, if you installed the astropy-workshop directory in your home directory, you could type:
+Now navigate to this directory in the terminal.  For example, if you installed the astropgh-boot-camp-2020 directory in your home directory, you could type:
 
 On a mac/linux:
 
@@ -49,7 +49,7 @@ In windows:
 
     % cd astropgh-boot-camp-2020\00-Install_and_Setup\
 
-And finally, on any platform, to install and activate the astropy-workshop environment, type:
+And finally, on any platform, to install and activate the astropgh-boot-camp environment, type:
 
     % conda env create -n astropgh-boot-camp --file environment.yml
     % conda activate astropgh-boot-camp
@@ -64,11 +64,11 @@ Run the check_env.py script to check the Python environment and some of the requ
 
 If the script reports that some of the versions don't match, update the reported packages using the ``conda update``, namely:
 
-    (astropy-workshop) % conda update <packagename>
+    (astropgh-boot-camp) % conda update <packagename>
 
-The exception to this is if the `astroquery` package is reported as out-of-date.  If you created the `astropy-workshop` environment using the `environment.yml` file, `astroquery` is installed using the `pip` package manager, because it typically has access to newer versions of `astroquery`.  To update a package installed with `pip`, use:
+The exception to this is if the `astroquery` package is reported as out-of-date.  If you created the `astropgh-boot-camp` environment using the `environment.yml` file, `astroquery` is installed using the `pip` package manager, because it typically has access to newer versions of `astroquery`.  To update a package installed with `pip`, use:
 
-    (astropy-workshop) % pip install --pre <packagename> --upgrade
+    (astropgh-boot-camp) % pip install --pre <packagename> --upgrade
 
 ## Additional Resources
 - [Set up git](https://help.github.com/articles/set-up-git/)
