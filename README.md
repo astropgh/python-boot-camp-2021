@@ -39,12 +39,12 @@ If you are having difficulties with installation, please do not hesitate to reac
 - [Sign up for GitHub](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
 ### Instructors
-- (Brett Andrews)[https://bretthandrews.github.io/]: Python Basics, Data Structures, Functions and Modules, Astropy I/II, Pandas I/II/III, Git, and GitHub
-- (Christine Mazzola)[https://cnmazz.github.io/]: Matplotlib I and Matplotlib II
-- (Biprateep Dey)[https://biprateep.github.io/]: Numpy I and Numpy II
-- (David Setton)[https://davidjsetton.github.io/]: Linear Regression and Resampling
-- (Alan Pearl)[https://alanpearl.github.io/]: Debugging
-- (Daniel Perrefort)[https://djperrefort.github.io/]: Altair
+- [Brett Andrews](https://bretthandrews.github.io/): Python Basics, Data Structures, Functions and Modules, Astropy I/II, Pandas I/II/III, Git, and GitHub
+- [Christine Mazzola](https://cnmazz.github.io/): Matplotlib I and Matplotlib II
+- [Biprateep Dey](https://biprateep.github.io/): Numpy I and Numpy II
+- [David Setton](https://davidjsetton.github.io/): Linear Regression and Resampling
+- [Alan Pearl](https://alanpearl.github.io/): Debugging
+- [Daniel Perrefort](https://djperrefort.github.io/): Altair
 
 ### Schedule
 
