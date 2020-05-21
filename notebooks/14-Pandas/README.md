@@ -12,7 +12,7 @@ We're going to use Greg Reda's 3 part Introduction to Pandas:
 You can clone the notebook by running:
 
 ```bash
-git clone git@github.com:gjreda/gregreda.com.git
+git clone https://github.com/gjreda/gregreda.com.git
 ```
 and then navigating to:
 `gregreda.com/content/notebooks/intro-to-pandas.ipynb`
