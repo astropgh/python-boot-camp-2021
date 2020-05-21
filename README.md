@@ -38,11 +38,19 @@ If you are having difficulties with installation, please do not hesitate to reac
 - [Set up Git](https://help.github.com/articles/set-up-git/)
 - [Sign up for GitHub](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
+### Instructors
+(Brett Andrews)[https://bretthandrews.github.io/]: Python Basics, Data Structures, Functions and Modules, Astropy I/II, Pandas I/II/III, Git, and GitHub
+(Christine Mazzola)[https://cnmazz.github.io/]: Matplotlib I and Matplotlib II
+(Biprateep Dey)[https://biprateep.github.io/]: Numpy I and Numpy II
+(David Setton)[https://davidjsetton.github.io/]: Linear Regression and Resampling
+(Alan Pearl)[https://alanpearl.github.io/]: Debugging
+(Daniel Perrefort)[https://djperrefort.github.io/]: Altair
+
 ### Schedule
 
 | Time | Monday | Tuesday | Wednesday | Thursday |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9:00-10:15 | Python Basics | Numpy I | Astropy I | Git |
-| 10:45-12:00 | Data Structures | Numpy II | Astropy II | GitHub |
-| 1:00-2:15 | Functions and Modules | Linear Regression | Matplotlib II | Pandas |
+| 9:00-10:15 | Python Basics | Numpy I | Astropy I | Pandas I |
+| 10:45-12:00 | Data Structures | Numpy II | Astropy II | Pandas II |
+| 1:00-2:15 | Functions and Modules | Linear Regression | Matplotlib II | Pandas III, Git, and GitHub |
 | 2:45-4:00 | Matplotlib I | Resampling | Debugging | Altair |
