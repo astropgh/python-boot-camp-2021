@@ -1,5 +1,8 @@
 # Pandas
 
+## Pandas Cheatsheet
+[Pandas Cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+
 ## Introduction to Pandas
 We're going to use Greg Reda's 3 part Introduction to Pandas:
 - [Part I: Intro to Pandas Data Structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
