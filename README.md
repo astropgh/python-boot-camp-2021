@@ -54,3 +54,16 @@ If you are having difficulties with installation, please do not hesitate to reac
 | 10:45-12:00 | Data Structures | Numpy II | Astropy II | Pandas II |
 | 1:00-2:15 | Functions and Modules | Linear Regression | Matplotlib II | Pandas III, Git, and GitHub |
 | 2:45-4:00 | Matplotlib I | Resampling | Debugging | Altair |
+
+
+## Seminar Series
+
+Wednesdays from 2-3 pm EDT
+
+| Date | Title | Speaker |
+|:-----:|:-----:|:-----:|
+| 5/26 | Effective Plotting | [Brett Andrews](https://bretthandrews.github.io) |
+| 6/3 | Coding Best Practices | [Daniel Perrefort](https://djperrefort.github.io/) |
+| 6/10 | Strategies for Reading Papers | [Duncan Campbell](http://www.andrew.cmu.edu/user/duncanc/) |
+| 6/17 | MCMC | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
+
