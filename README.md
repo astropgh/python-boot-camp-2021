@@ -67,7 +67,7 @@ Wednesdays from 2-3 pm EDT
 | 6/10 | Strategies for Reading Papers | [Duncan Campbell](http://www.andrew.cmu.edu/user/duncanc/) |
 | 6/17 | MCMC | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
 | 6/24 | | |
-| 7/1  | | |
+| 7/1  | LaTeX and Overleaf | [Cat Fielder](https://cfielder.github.io/) |
 | 7/8  | Giving Effective Talks | Nathan Herring |
-| 7/15 | | |
+| 7/15 | Elevator Pitches | Rachel Bezanson |
 | 7/22 | | |
