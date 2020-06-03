@@ -63,7 +63,7 @@ Wednesdays from 2-3 pm EDT
 | Date | Title | Speaker |
 |:-----:|:-----:|:-----:|
 | 5/27 | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
-| 6/3  | Coding Best Practices | [Daniel Perrefort](https://djperrefort.github.io/) |
+| 6/3  | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
 | 6/10 | Strategies for Reading Papers | [Duncan Campbell](http://www.andrew.cmu.edu/user/duncanc/) |
 | 6/17 | MCMC | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
 | 6/24 | | |
