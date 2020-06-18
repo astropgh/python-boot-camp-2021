@@ -65,7 +65,7 @@ Wednesdays from 2-3 pm EDT
 | 5/27 | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
 | 6/3  | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
 | 6/10 | #strikeforblacklives |  |
-| 6/17 | MCMC | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
+| 6/17 | [MCMC](https://docs.google.com/presentation/d/1mVGKmY52kZpGOlFE78-F5ZXD1ciMeQKnq6srPQqFzqw/edit?usp=sharing) (notebook) | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
 | 6/24 | Strategies for Reading Papers | TBA |
 | 7/1  | LaTeX and Overleaf | [Cat Fielder](https://cfielder.github.io/) |
 | 7/8  | Giving Effective Talks | Nathan Herring |
