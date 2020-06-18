@@ -66,8 +66,8 @@ Wednesdays from 2-3 pm EDT
 | 6/3  | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
 | 6/10 | #strikeforblacklives |  |
 | 6/17 | [MCMC](https://docs.google.com/presentation/d/1mVGKmY52kZpGOlFE78-F5ZXD1ciMeQKnq6srPQqFzqw/edit?usp=sharing) ([notebook](seminars/2020-06-17-mcmc/mcmc_notebook.ipynb), [emline.txt](seminars/2020-06-17-mcmc/emline.txt), [sndata.txt](seminars/2020-06-17-mcmc/sndata.txt)) | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
-| 6/24 | Strategies for Reading Papers | TBA |
+| 6/24 | Strategies for Reading Papers | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/1  | LaTeX and Overleaf | [Cat Fielder](https://cfielder.github.io/) |
 | 7/8  | Giving Effective Talks | Nathan Herring |
-| 7/15 | Elevator Pitches | Rachel Bezanson |
+| 7/15 | Elevator Pitches | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/22 | | |
