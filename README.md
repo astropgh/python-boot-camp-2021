@@ -70,4 +70,4 @@ Wednesdays from 2-3 pm EDT
 | 7/1  | LaTeX and Overleaf | [Cat Fielder](https://cfielder.github.io/) |
 | 7/8  | Giving Effective Talks | Nathan Herring |
 | 7/15 | Elevator Pitches | [Rachel Bezanson](https://rachelbezanson.github.io/) |
-| 7/22 | | |
+| 7/22 | Overcoming Fear of Public Speaking | [Kuan Wang](https://kuanwang-astro.github.io/) |
