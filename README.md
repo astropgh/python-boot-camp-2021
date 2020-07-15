@@ -69,6 +69,6 @@ Wednesdays from 2-3 pm EDT
 | 6/24 | [From Passion to Action: Levers and Tools for Making Inclusive and Equitable](https://info.aps.org/delta-phy-webinar) | APS |
 | 7/1  | [LaTeX and Overleaf](seminars/latex_2020-07-01.pdf) | [Cat Fielder](https://cfielder.github.io/) |
 | 7/8  | [How to Give Effective Talks](seminars/latex_2020-07-01.pdf) | Nathan Herring |
-| 7/15 | Strategies for Reading Papers | [Rachel Bezanson](https://rachelbezanson.github.io/) |
+| 7/15 | [Strategies for Reading Papers](https://arxiv.org/abs/2006.12566) | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/22 | Overcoming Fear of Public Speaking | [Kuan Wang](https://kuanwang-astro.github.io/) |
 | 7/29 | Elevator Pitches | [Rachel Bezanson](https://rachelbezanson.github.io/) |
