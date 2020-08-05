@@ -71,5 +71,5 @@ Wednesdays from 2-3 pm EDT
 | 7/8  | [How to Give Effective Talks](seminars/latex_2020-07-01.pdf) | Nathan Herring |
 | 7/15 | [Strategies for Reading Papers](https://arxiv.org/abs/2006.12566) | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/22 | Nathan Herring Thesis Defense |  |
-| 7/29 | Overcoming Fear of Public Speaking | [Kuan Wang](https://kuanwang-astro.github.io/) |
+| 7/29 | [Overcoming Fear of Public Speaking](seminars/public_speaking_2020-07-29.pdf) | [Kuan Wang](https://kuanwang-astro.github.io/) |
 | 8/5 | Elevator Pitches | [Rachel Bezanson](https://rachelbezanson.github.io/) |
