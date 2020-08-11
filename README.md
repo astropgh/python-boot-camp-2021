@@ -48,7 +48,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 
 ### Schedule
 
-| Time | Monday | Tuesday | Wednesday | Thursday |
+| Time | Monday (5/18) | Tuesday (5/19) | Wednesday (5/20) | Thursday (5/21) |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | 9:00-10:15 | Python Basics | Numpy I | Astropy I | Pandas I |
 | 10:45-12:00 | Data Structures | Numpy II | Astropy II | Pandas II |
@@ -72,4 +72,4 @@ Wednesdays from 2-3 pm EDT
 | 7/15 | [Strategies for Reading Papers](https://arxiv.org/abs/2006.12566) | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/22 | Nathan Herring Thesis Defense |  |
 | 7/29 | [Overcoming Fear of Public Speaking](seminars/public_speaking_2020-07-29.pdf) | [Kuan Wang](https://kuanwang-astro.github.io/) |
-| 8/5 | Elevator Pitches | [Rachel Bezanson](https://rachelbezanson.github.io/) |
+| 8/5 | Elevator Pitches | [Brett Andrews](https://bretthandrews.github.io/) |
