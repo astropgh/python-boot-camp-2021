@@ -68,7 +68,7 @@ Wednesdays from 2-3 pm EDT
 | 6/17 | [MCMC](https://docs.google.com/presentation/d/1mVGKmY52kZpGOlFE78-F5ZXD1ciMeQKnq6srPQqFzqw/edit?usp=sharing) ([notebook](seminars/2020-06-17-mcmc/mcmc_notebook.ipynb), [emline.txt](seminars/2020-06-17-mcmc/emline.txt), [sndata.txt](seminars/2020-06-17-mcmc/sndata.txt)) | [Alan Pearl](https://alanpearl.github.io/) & [David Setton](https://davidjsetton.github.io/) |
 | 6/24 | [From Passion to Action: Levers and Tools for Making Inclusive and Equitable](https://info.aps.org/delta-phy-webinar) | APS |
 | 7/1  | [LaTeX and Overleaf](seminars/latex_2020-07-01.pdf) | [Cat Fielder](https://cfielder.github.io/) |
-| 7/8  | [How to Give Effective Talks](seminars/latex_2020-07-01.pdf) | Nathan Herring |
+| 7/8  | [How to Give Effective Talks](seminars/effective_talks_2020-07-08.pdf) | Nathan Herring |
 | 7/15 | [Strategies for Reading Papers](https://arxiv.org/abs/2006.12566) | [Rachel Bezanson](https://rachelbezanson.github.io/) |
 | 7/22 | Nathan Herring Thesis Defense |  |
 | 7/29 | [Overcoming Fear of Public Speaking](seminars/public_speaking_2020-07-29.pdf) | [Kuan Wang](https://kuanwang-astro.github.io/) |
