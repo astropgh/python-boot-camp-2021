@@ -44,6 +44,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 - [Biprateep Dey (Pitt)](https://biprateep.github.io/): Numpy I and Numpy II
 - [Taylor Hutchison (TAMU)](https://physics.tamu.edu/directory/taylor-hutchison/): Matplotlib I and Matplotlib II
 - [Zach Lewis (Pitt)](https://zachjlewis.github.io/): Numpy III
+- [Alex Riley (TAMU)](https://ahriley.github.io/): Astropy I and Astropy II
 - [David Setton (Pitt)](https://davidjsetton.github.io/): 
 - Paul Zivick (TAMU): Python Basics, Data Structures, and Functions and Modules
 
