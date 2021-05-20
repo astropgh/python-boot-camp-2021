@@ -39,7 +39,6 @@ import astroquery
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews or Paul Zivick on Slack or via email.
 
 #### Git and GitHub
-- [Set up Git](https://help.github.com/articles/set-up-git/)
 - [Sign up for GitHub](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
 
