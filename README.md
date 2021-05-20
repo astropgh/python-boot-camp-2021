@@ -78,3 +78,5 @@ Wednesdays from 2-3 pm EDT
 | 7/21 |  |  |
 | 7/28 |  |  |
 | 8/4  |  |  |
+
+![](etc/NSF_4-Color_bitmap_Logo.png?raw=true)
