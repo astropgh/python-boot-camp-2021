@@ -80,3 +80,5 @@ Wednesdays from 2-3 pm EDT
 | 8/4  |  |  |
 
 <a href="url"><img src="https://github.com/astropgh/python-boot-camp-2021/blob/main/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="128" width="128" ></a>
+
+This material is based upon work supported by the National Science Foundation grant number AST-2009251. Any opinions, findings, and conclusions or recommendations expressed on this website are those of the participants and do not necessarily reflect the views of the National Science Foundation or the participating institutions.
