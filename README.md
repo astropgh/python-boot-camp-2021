@@ -2,11 +2,11 @@
 
 **2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) / [website](https://astropgh.github.io/python-boot-camp-2021/)
 
-Welcome to the 2021 AstroPGH-TAMU Python Boot Camp and Weekly Seminar Series for summer undergraduate students and early PhD students new to research.  This program is designed to help you learn the basics of research, including coding, writing, and presenting.
+Welcome to the 2021 AstroPGH-TAMU Python Boot Camp and Weekly Seminar Series for summer undergraduate students and early PhD students new to Python.  This program is designed to help you learn the basics of using Python for astrophysics research.
 
 We will start with a 1+2 day Python coding boot camp to help get everyone off the ground with their research.
 
-Then we will have a weekly seminar series to discuss more advanced topics, including communication skills (reading, plotting, storytelling, and writing) that become more important as the summer goes on. Our hope is to create a sense of community in spite of the remote operations this year, so that you can help others, can seek help, and can interact with each other.
+Then we will have a weekly seminar series to discuss more advanced topics, including communication skills (reading, plotting, storytelling, and writing) and statistics/machine learning. Our hope is to create a sense of community in spite of the remote operations this year, so that you can help others, can seek help, and can interact with each other.
 
 ## Boot Camp
 ### Installation and Setup
@@ -36,7 +36,7 @@ import astroquery
 4. Type into the iPython shell the word `paste`, and press enter.
 5. If no errors are raised, you're ready for bootcamp. You may close the terminal window.
 
-If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
+If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews or Paul Zivick on Slack or via email.
 
 #### Git and GitHub
 - [Set up Git](https://help.github.com/articles/set-up-git/)
