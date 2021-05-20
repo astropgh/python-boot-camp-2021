@@ -1,15 +1,15 @@
 # Getting Started with Python and Anaconda
 
 Please come to the workshop with a laptop already configured as described below.
-If you have any problems with any of these steps, please [open an issue](https://github.com/astropgh/astropgh-boot-camp-2020/issues).
+If you have any problems with any of these steps, please [open an issue](https://github.com/astropgh/python-boot-camp-2021/issues).
 
 ## 1. Clone This Repository
 
 Download the workshop folder using [git](https://help.github.com/articles/set-up-git/):
 
-    % git clone https://github.com/astropgh/astropgh-boot-camp-2020.git
+    % git clone https://github.com/astropgh/python-boot-camp-2021.git
 
-If you don't have git installed, you can download the ZIP file by pressing the green *Clone or download* button at https://github.com/astropgh/astropgh-boot-camp-2020 and selecting *Download ZIP*.  However, this option is less prefered because it makes it more difficult for you to update your copy of the repository if updates are made.
+If you don't have git installed, you can download the ZIP file by pressing the green *Clone or download* button at https://github.com/astropgh/python-boot-camp-2021 and selecting *Download ZIP*.  However, this option is less prefered because it makes it more difficult for you to update your copy of the repository if updates are made.
 
 ## 2. Install Anaconda (if needed)
 
@@ -39,36 +39,36 @@ If the output text does not contain `bash` then switch to the bash shell before 
 
 On windows, just open the `Anaconda Prompt` terminal app.
 
-Now navigate to this directory in the terminal.  For example, if you installed the astropgh-boot-camp-2020 directory in your home directory, you could type:
+Now navigate to this directory in the terminal.  For example, if you installed the python-boot-camp-2021 directory in your home directory, you could type:
 
 On a mac/linux:
 
-    % cd astropgh-boot-camp-2020/00-Install_and_Setup/  
+    % cd python-boot-camp-2021/00-Install_and_Setup/  
 
 In windows:
 
-    % cd astropgh-boot-camp-2020\00-Install_and_Setup\
+    % cd python-boot-camp-2021\00-Install_and_Setup\
 
 And finally, on any platform, to install and activate the astropgh-boot-camp environment, type:
 
-    % conda env create -n astropgh-boot-camp --file environment.yml
-    % conda activate astropgh-boot-camp
+    % conda env create -n python-boot-camp --file environment.yml
+    % conda activate python-boot-camp
 
 ## 4. Check Installation
 
-The name of the new conda environment created above should be displayed next to the terminal prompt: `(astropgh-boot-camp) % `
+The name of the new conda environment created above should be displayed next to the terminal prompt: `(python-boot-camp) % `
 
 Run the check_env.py script to check the Python environment and some of the required dependencies:
 
-    (astropgh-boot-camp) % python check_env.py
+    (python-boot-camp) % python check_env.py
 
 If the script reports that some of the versions don't match, update the reported packages using the ``conda update``, namely:
 
-    (astropgh-boot-camp) % conda update <packagename>
+    (python-boot-camp) % conda update <packagename>
 
-The exception to this is if the `astroquery` package is reported as out-of-date.  If you created the `astropgh-boot-camp` environment using the `environment.yml` file, `astroquery` is installed using the `pip` package manager, because it typically has access to newer versions of `astroquery`.  To update a package installed with `pip`, use:
+The exception to this is if the `astroquery` package is reported as out-of-date.  If you created the `python-boot-camp` environment using the `environment.yml` file, `astroquery` is installed using the `pip` package manager, because it typically has access to newer versions of `astroquery`.  To update a package installed with `pip`, use:
 
-    (astropgh-boot-camp) % pip install --pre <packagename> --upgrade
+    (python-boot-camp) % pip install --pre <packagename> --upgrade
 
 ## Additional Resources
 - [Set up git](https://help.github.com/articles/set-up-git/)
