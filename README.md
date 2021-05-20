@@ -79,4 +79,4 @@ Wednesdays from 2-3 pm EDT
 | 7/28 |  |  |
 | 8/4  |  |  |
 
-<a href="url"><img src="https://github.com/astropgh/python-boot-camp-2021/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/astropgh/python-boot-camp-2021/blob/main/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="48" width="48" ></a>
