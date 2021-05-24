@@ -1,4 +1,10 @@
+'''
+matplotlib script by Christine Mazzola to set certain default params
+version==2020
+'''
+
 import matplotlib.pyplot as plt
+__author__ = 'Christine Mazzola'
 
 
 # Plotter Defaults
