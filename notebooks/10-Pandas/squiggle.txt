@@ -1,0 +1,16 @@
+Table 1
+Properties of the GMOS Observations
+
+
+ID	Name	R.A.	Decl.	z	Stellar	i	GMOS	Integration^a	Image^b
+					Mass		Program	Time	Quality
+		(degrees)	(degrees)		$\left(\mathrm{log}\tfrac{{M}_{\star }}{{M}_{\odot }}\right)$	(AB Mag)		(s)
+SDSS J110932.14-004003.8	J1109-0040	167.384	-0.6678	0.593	11.09	18.8	GN-2019A-Q-234	9720	20
+SDSS J023359.33+005238.4	J0233+0052	38.4972	0.8774	0.592	11.15	18.72	GN-2017B-Q-37	7560 (6480)	20
+SDSS J091242.76+152305.1	J0912+1523	138.1782	15.3848	0.747	11.25	18.63	GN-2016A-FT-6	9802	20
+SDSS J083547.08+312144.5	J0835+3121	128.9462	31.3624	0.506	10.98	18.11	GN-2017B-Q-37	6300	70
+SDSS J075344.17+240336.1	J0753+2403	118.4341	24.0601	0.565	11.18	18.72	GN-2017B-Q-37	8640 (5400)	70
+SDSS J144845.91+101010.5	J1448+1010	222.1913	10.1696	0.646	11.24	18.67	GS-2018A-FT-112	11880 (8640)	70
+Notes.
+^a Integration time that was considered useful is shown in parentheses if it differs from the total integration time. Useful frames of data are those that do not have visible issues after scattered-light subtraction or significant noise spikes in the Hdelta_A bandpass.
+^b The Image Quality quoted is the worst-case conditions under which the majority of frames were observed. IQ20 corresponds to FWHM <or= 0."5 seeing and IQ70 corresponds to FWHM <or= 0."75 seeing at zenith.
