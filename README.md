@@ -39,12 +39,11 @@ import astroquery
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews or Paul Zivick on Slack or via email.
 
 ### Instructors
-- [Brett Andrews (Pitt)](https://bretthandrews.github.io/): Pandas
+- [Brett Andrews (Pitt)](https://bretthandrews.github.io/): Numpy IV and Pandas
 - [Biprateep Dey (Pitt)](https://biprateep.github.io/): Numpy I and Numpy II
 - [Taylor Hutchison (TAMU)](https://aibhleog.github.io/): Matplotlib I and Matplotlib II
 - [Zach Lewis (Pitt)](https://zachjlewis.github.io/): Numpy III
 - [Alex Riley (TAMU)](https://ahriley.github.io/): Astropy I and Astropy II
-- [David Setton (Pitt)](https://davidjsetton.github.io/): Numpy IV
 - Paul Zivick (TAMU): Python Basics, Data Structures, and Functions and Modules
 
 ### Schedule
@@ -63,14 +62,14 @@ Wednesdays from 2-3 pm EDT
 
 | Date | Title | Speaker |
 |:-----:|:-----:|:-----:|
-| 6/2 | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
-| 6/9  | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
+| 6/2  | | |
+| 6/9?  | [How to Give Effective Talks](seminars/effective_talks_2020-07-08.pdf) | Nathan Herring |
 | 6/16 |  |  |
-| 6/23 |  |  |
-| 6/30 |  |  |
-| 7/7  | [How to Give Effective Talks](seminars/effective_talks_2020-07-08.pdf) | Nathan Herring |
+| 6/23 | Principal Component Analysis | Biprateep Dey |
+| 6/30? | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
+| 7/7  | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
 | 7/14 |  |  |
-| 7/21 |  |  |
+| 7/21 | Gaussian Process Regression | [Cat Fielder](https://cfielder.github.io/) |
 | 7/28 |  |  |
 | 8/4  |  |  |
 
