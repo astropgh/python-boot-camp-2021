@@ -63,8 +63,8 @@ Wednesdays from 2-3 pm EDT
 | Date | Title | Speaker |
 |:-----:|:-----:|:-----:|
 | 6/2  | | |
-| 6/9?  | [How to Give Effective Talks](seminars/effective_talks_2020-07-08.pdf) | Nathan Herring |
-| 6/16 |  |  |
+| 6/9  | | |
+| 6/16 | [How to Give an Effective Talk](seminars/effective_talks_2021-06-16.pdf) | Nathan Herring |
 | 6/23 | [Principal Component Analysis](seminars/pca_2021-06-23.pdf) | [Biprateep Dey (Pitt)](https://biprateep.github.io/) |
 | 6/30 |  |  |
 | 7/7  | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
