@@ -67,7 +67,7 @@ Wednesdays from 2-3 pm EDT
 | 6/16 | [How to Give an Effective Talk](seminars/effective_talks_2021-06-16.pdf) | Nathan Herring |
 | 6/23 | [Principal Component Analysis](seminars/pca_2021-06-23.pdf) | [Biprateep Dey (Pitt)](https://biprateep.github.io/) |
 | 6/30 |  |  |
-| 7/7  | [Effective Plotting](http://htmlpreview.github.io/?https://github.com/astropgh/astropgh-boot-camp-2020/blob/master/seminars/2020-05-27-plotting/plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
+| 7/7  | [Effective Plotting](https://bretthandrews.github.io/files/talks/2021-07-07-pitt-plotting/2021-07-07-pitt-plotting.html#/) | [Brett Andrews](https://bretthandrews.github.io) |
 | 7/14 | [Coding Best Practices](seminars/coding_best_practices_2020-06-03.pdf) | [Daniel Perrefort](https://djperrefort.github.io/) |
 | 7/21 | Gaussian Process Regression | [Cat Fielder](https://cfielder.github.io/) |
 | 7/28 |  |  |
