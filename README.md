@@ -2,6 +2,8 @@
 
 **2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) / [website](https://astropgh.github.io/python-boot-camp-2021/)
 
+**2022**: [GitHub](https://github.com/astropgh/python-boot-camp-2022) / [website](https://astropgh.github.io/python-boot-camp-2022/)
+
 Welcome to the 2021 AstroPGH-TAMU Python Boot Camp and Weekly Seminar Series for summer undergraduate students and early PhD students new to Python.  This program is designed to help you learn the basics of using Python for astrophysics research.
 
 We will start with a 1+2 day Python coding boot camp to help get everyone off the ground with their research.
